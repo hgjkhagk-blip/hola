@@ -1,0 +1,547 @@
+[11Jan2026 00:00:45.558] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:00:45.564] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:00:45.588] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:00:45.590] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:00:45.590] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:00:45.591] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:00:45.592] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:00:45.592] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:00:45.597] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:00:45.598] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:00:45.601] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:00:45.606] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:01:13.223] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=579, y=-20, z=-338}
+[11Jan2026 00:01:23.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -0.7372257823790278,0.0,-10.373834133421042
+[11Jan2026 00:01:23.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -0.7655806201628366,0.0,-10.772827753937236
+[11Jan2026 00:01:23.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -0.7939354579466453,0.0,-11.17182137445343
+[11Jan2026 00:01:23.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -0.8222902957304541,0.0,-11.570814994969624
+[11Jan2026 00:01:23.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -0.8506451335142629,0.0,-11.969808615485817
+[11Jan2026 00:01:23.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -0.8789999712980716,0.0,-12.368802236002011
+[11Jan2026 00:01:23.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -0.9073548090818804,0.0,-12.767795856518205
+[11Jan2026 00:01:23.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -0.9357096468656891,0.0,-13.1667894770344
+[11Jan2026 00:01:23.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -0.9640644846494979,0.0,-13.565783097550593
+[11Jan2026 00:01:57.944] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:01:57.947] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:01:57.948] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:01:57.948] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:01:57.948] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:01:57.949] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:01:57.949] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:01:57.954] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:04:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 was blown up by Creeper
+[11Jan2026 00:04:11.458] [Server thread/INFO] [tombstone/]: The player pablito12363 has successfully been saved
+[11Jan2026 00:04:47.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Teleported pablito12363 to Sergio]
+[11Jan2026 00:04:55.250] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-52, y=92, z=-105}
+[11Jan2026 00:04:55.250] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[11Jan2026 00:04:57.192] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=92, z=-105}
+[11Jan2026 00:04:57.193] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[11Jan2026 00:05:12.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Teleported pablito12363 to Sergio]
+[11Jan2026 00:05:30.767] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:05:30.772] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:05:30.780] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:05:30.789] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:05:30.789] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:05:30.790] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:05:30.792] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:05:30.792] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:05:30.792] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:05:30.794] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:05:30.795] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:05:30.797] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:05:30.800] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:05:30.800] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:05:30.814] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:07:18.739] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-9, y=89, z=-54}
+[11Jan2026 00:07:18.740] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[11Jan2026 00:07:21.020] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5, y=89, z=-58}
+[11Jan2026 00:07:21.020] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=89, z=-56}
+[11Jan2026 00:07:59.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.2769424623935492,0.0,-10.144234094744206
+[11Jan2026 00:07:59.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.3645404295677963,0.0,-10.534500559443586
+[11Jan2026 00:07:59.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.4521389058517116,0.0,-10.924769292327255
+[11Jan2026 00:07:59.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.539737840334169,0.0,-11.31504006657633
+[11Jan2026 00:07:59.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.627337187195394,0.0,-11.705312678053815
+[11Jan2026 00:07:59.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.714936905197419,0.0,-12.095586943037233
+[11Jan2026 00:07:59.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.802536957226266,0.0,-12.4858626961759
+[11Jan2026 00:07:59.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.890137309879151,0.0,-12.876139788654655
+[11Jan2026 00:07:59.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.166669366075439,0.0,-10.16060029113578
+[11Jan2026 00:07:59.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.201810036748043,0.0,-10.55442526571187
+[11Jan2026 00:07:59.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.224324958493753,0.0,-10.947816124074052
+[11Jan2026 00:07:59.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.2338422819540256,0.0,-11.340397368960112
+[11Jan2026 00:08:29.291] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-42, z=-299}
+[11Jan2026 00:08:44.583] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:08:44.584] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:08:44.585] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:08:44.586] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:08:44.588] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:08:44.589] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:08:44.590] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:08:44.591] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:08:44.591] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:08:44.592] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:08:44.593] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:08:44.593] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:08:44.594] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:08:44.594] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:08:55.561] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1056, y=25, z=-7706} but found not block entity block Block{minecraft:water}[level=1] at location
+[11Jan2026 00:08:55.562] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-1056, y=25, z=-7706}
+[11Jan2026 00:09:33.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 was impaled by Deepling Brute
+[11Jan2026 00:09:33.666] [Server thread/INFO] [tombstone/]: The player pablito12363 has successfully been saved
+[11Jan2026 00:09:36.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Teleported pablito12363 to Sergio]
+[11Jan2026 00:11:18.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.6242519178335897,0.0,-9.78667816514917
+[11Jan2026 00:11:18.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.4716879484303718,0.0,-10.13390699512911
+[11Jan2026 00:11:18.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.3132337897147863,0.0,-10.480366160934864
+[11Jan2026 00:11:18.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -2.149335418924238,0.0,-10.82604312145304
+[11Jan2026 00:11:18.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -1.9804043110984821,0.0,-11.170932151538182
+[11Jan2026 00:11:18.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -1.8068272763105142,0.0,-11.515037903525808
+[11Jan2026 00:11:18.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -1.628965603204506,0.0,-11.858372465857428
+[11Jan2026 00:11:18.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -1.4471510918820059,0.0,-12.20095057008075
+[11Jan2026 00:11:18.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -1.2616953934914363,0.0,-12.542793569643436
+[11Jan2026 00:11:18.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -1.0728855505703905,0.0,-12.88392467243375
+[11Jan2026 00:11:18.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -0.8809864243787615,0.0,-13.224368800040793
+[11Jan2026 00:11:18.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -0.6862460925628966,0.0,-13.56415457332696
+[11Jan2026 00:11:18.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -0.4888942902400686,0.0,-13.903311878687418
+[11Jan2026 00:11:18.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -0.2891410330510098,0.0,-14.241869644161852
+[11Jan2026 00:11:18.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! -0.08718176678144118,0.0,-14.579858081036036
+[11Jan2026 00:11:18.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! 0.1168011868285248,0.0,-14.917308581592806
+[11Jan2026 00:11:18.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! 0.32264371214000676,0.0,-15.25424935418323
+[11Jan2026 00:11:18.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! 0.5301917068957209,0.0,-15.590710014526849
+[11Jan2026 00:11:18.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! 0.7393032734557892,0.0,-15.926719329009757
+[11Jan2026 00:11:18.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! 0.9498506890463432,0.0,-16.262303161302043
+[11Jan2026 00:11:18.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! 1.161712627339739,0.0,-16.597489057889106
+[11Jan2026 00:11:18.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sergio) moved too quickly! 1.374779885330554,0.0,-16.932301791980535
+[11Jan2026 00:11:18.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
+[11Jan2026 00:11:49.762] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[11Jan2026 00:12:15.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio has made the advancement [Mine? Mine? Mine?]
+[11Jan2026 00:14:43.658] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-33, y=-52, z=-356}
+[11Jan2026 00:14:43.658] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-358}
+[11Jan2026 00:14:43.658] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-356}
+[11Jan2026 00:14:43.659] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-35, y=-51, z=-362}
+[11Jan2026 00:14:43.659] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-56, z=-356}
+[11Jan2026 00:14:43.670] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-51, z=-356}
+[11Jan2026 00:14:43.670] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-57, z=-359}
+[11Jan2026 00:14:52.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 has made the advancement [Jaws]
+[11Jan2026 00:14:52.378] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=110, z=-139}
+[11Jan2026 00:14:52.378] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=40, y=110, z=-139}
+[11Jan2026 00:14:54.606] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=56, y=110, z=-138}
+[11Jan2026 00:14:54.607] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=110, z=-141}
+[11Jan2026 00:14:54.607] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[11Jan2026 00:16:02.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 has made the advancement [Cover Me with Diamonds]
+[11Jan2026 00:16:02.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 has made the advancement [Funeral Theft]
+[11Jan2026 00:19:14.142] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-192, y=27, z=-8726} but found not block entity block Block{minecraft:water}[level=1] at location
+[11Jan2026 00:19:14.142] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-192, y=27, z=-8726}
+[11Jan2026 00:21:26.382] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-33, y=-52, z=-356}
+[11Jan2026 00:21:26.384] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-358}
+[11Jan2026 00:21:26.385] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-356}
+[11Jan2026 00:21:26.385] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-35, y=-51, z=-362}
+[11Jan2026 00:21:26.385] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-56, z=-356}
+[11Jan2026 00:21:26.392] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-51, z=-356}
+[11Jan2026 00:21:26.392] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-57, z=-359}
+[11Jan2026 00:21:28.115] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=110, z=-139}
+[11Jan2026 00:21:28.115] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=40, y=110, z=-139}
+[11Jan2026 00:21:28.125] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=56, y=110, z=-138}
+[11Jan2026 00:21:28.125] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=110, z=-141}
+[11Jan2026 00:21:28.126] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[11Jan2026 00:21:35.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 10.397512891690212,0.0,0.22632094447180862
+[11Jan2026 00:21:35.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 10.797417233703271,0.0,0.23502559650114563
+[11Jan2026 00:21:35.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 11.19732157571687,0.0,0.2437302485377586
+[11Jan2026 00:21:35.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 11.597225917730952,0.0,0.25243490057982854
+[11Jan2026 00:21:35.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 11.99713025974549,0.0,0.26113955262735544
+[11Jan2026 00:21:35.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 12.397034601760424,0.0,0.2698442046803393
+[11Jan2026 00:21:35.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 12.796938943775729,0.0,0.27854885673696117
+[11Jan2026 00:21:35.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 13.196843285791346,0.0,0.28725350879904
+[11Jan2026 00:21:35.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 13.596747627807247,0.0,0.2959581608647568
+[11Jan2026 00:21:35.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 13.996651969823404,0.0,0.30466281293411157
+[11Jan2026 00:21:35.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 14.396556311839817,0.0,0.31336746500528534
+[11Jan2026 00:21:35.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 14.796460653856428,0.0,0.3220721170800971
+[11Jan2026 00:21:35.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 15.196364995873239,0.0,0.3307767691567278
+[11Jan2026 00:21:35.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 15.59626933789022,0.0,0.33948142123517755
+[11Jan2026 00:21:35.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 15.996173679907344,0.0,0.34818607331544627
+[11Jan2026 00:21:35.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 16.39607802192461,0.0,0.35689072539753397
+[11Jan2026 00:21:35.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 16.795982363942016,0.0,0.36559537748144066
+[11Jan2026 00:21:35.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 17.195886705959538,0.0,0.37430002956716635
+[11Jan2026 00:21:35.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 17.595791047977144,0.0,0.383004681654711
+[11Jan2026 00:21:35.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 17.995695389994836,0.0,0.3917093337422557
+[11Jan2026 00:21:35.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 18.395599732012613,0.0,0.40041398583161936
+[11Jan2026 00:21:35.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 18.795504074030475,0.0,0.409118637920983
+[11Jan2026 00:21:35.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 19.195408416048394,0.0,0.41782329001216567
+[11Jan2026 00:21:35.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 19.59531275806637,0.0,0.4265279421033483
+[11Jan2026 00:21:35.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 19.995217100084403,0.0,0.43523259419634996
+[11Jan2026 00:21:35.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 20.395121442102493,0.0,0.4439372462893516
+[11Jan2026 00:21:35.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 20.79502578412061,0.0,0.45264189838235325
+[11Jan2026 00:21:35.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 21.194930126138786,0.0,0.4613465504771739
+[11Jan2026 00:21:35.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 21.59483446815699,0.0,0.4700512025719945
+[11Jan2026 00:21:35.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 21.99473881017522,0.0,0.47875585466681514
+[11Jan2026 00:21:35.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 22.39464315219348,0.0,0.48746050676163577
+[11Jan2026 00:21:35.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 22.79454749421177,0.0,0.4961651588564564
+[11Jan2026 00:21:35.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 23.194451836230087,0.0,0.504869810953096
+[11Jan2026 00:21:35.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 23.594356178248432,0.0,0.5135744630497356
+[11Jan2026 00:21:35.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 23.994260520266778,0.0,0.5222791151463753
+[11Jan2026 00:21:35.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 24.39416486228515,0.0,0.5309837672430149
+[11Jan2026 00:21:35.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 24.794069204303526,0.0,0.5396884193396545
+[11Jan2026 00:21:35.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3075ms or 61 ticks behind
+[11Jan2026 00:21:35.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 15.196364996644178,0.0,0.33077677898472757
+[11Jan2026 00:21:35.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito12363) moved too quickly! 15.59624799647446,0.0,0.3401790590942255
+[11Jan2026 00:25:24.717] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:25:24.719] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:25:24.720] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:25:24.722] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:25:24.725] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:25:24.725] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:25:24.726] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:25:24.726] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:25:24.730] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:25:46.629] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=69, z=-151}
+[11Jan2026 00:25:46.630] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=69, z=-150}
+[11Jan2026 00:25:58.866] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[11Jan2026 00:25:58.866] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[11Jan2026 00:25:58.866] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[11Jan2026 00:26:11.964] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-198, y=21, z=-9168} but found not block entity block Block{minecraft:water}[level=1] at location
+[11Jan2026 00:26:11.964] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-198, y=21, z=-9168}
+[11Jan2026 00:26:34.989] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-173, y=-55, z=-229}
+[11Jan2026 00:28:21.888] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.892] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.894] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.896] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.904] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.906] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.907] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.909] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.912] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.913] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.915] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.916] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.916] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.922] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.949] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.949] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.963] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.972] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:21.972] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:28:32.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Teleported pablito12363 to Sergio]
+[11Jan2026 00:29:12.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 was shot by Skeleton
+[11Jan2026 00:29:13.226] [Server thread/INFO] [tombstone/]: The player pablito12363 has successfully been saved
+[11Jan2026 00:29:19.519] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-241}
+[11Jan2026 00:29:19.519] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-242}
+[11Jan2026 00:29:19.725] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-26, z=-242}
+[11Jan2026 00:29:19.727] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-12, z=-242}
+[11Jan2026 00:29:19.728] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-13, z=-242}
+[11Jan2026 00:29:25.098] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-13, z=-248}
+[11Jan2026 00:29:25.118] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=559, y=-26, z=-250}
+[11Jan2026 00:29:25.119] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-26, z=-248}
+[11Jan2026 00:29:25.120] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-248}
+[11Jan2026 00:29:25.120] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-249}
+[11Jan2026 00:29:25.174] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[11Jan2026 00:29:30.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Teleported pablito12363 to Sergio]
+[11Jan2026 00:29:32.058] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=489, y=-59, z=383}
+[11Jan2026 00:29:32.058] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=488, y=-57, z=389}
+[11Jan2026 00:29:32.058] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=484, y=-58, z=387}
+[11Jan2026 00:29:32.059] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=492, y=-59, z=388}
+[11Jan2026 00:29:32.059] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=488, y=-57, z=387}
+[11Jan2026 00:30:18.978] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=75, z=-939}
+[11Jan2026 00:30:18.979] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=72, z=-940}
+[11Jan2026 00:30:25.654] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:30:25.655] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:30:25.656] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:30:25.656] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:30:25.656] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:30:25.657] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:30:34.617] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[11Jan2026 00:30:34.618] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=896, y=-43, z=800}
+[11Jan2026 00:32:45.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 has made the advancement [Ambush]
+[11Jan2026 00:32:45.282] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Gunnarr'/40358, l='ServerLevel[world]', x=88.30, y=47.00, z=-10397.50] died: Gunnarr was slain by pablito12363
+[11Jan2026 00:33:36.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Teleported pablito12363 to Sergio]
+[11Jan2026 00:35:22.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito12363 was kicked for floating too long!
+[11Jan2026 00:35:22.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito12363 lost connection: Flying is not enabled on this server
+[11Jan2026 00:35:22.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 left the game
+[11Jan2026 00:35:24.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio was kicked for floating too long!
+[11Jan2026 00:35:24.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio lost connection: Flying is not enabled on this server
+[11Jan2026 00:35:24.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio left the game
+[11Jan2026 00:35:34.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sergio[/127.145.238.209:43455] logged in with entity id 42202 at (-1.1757641327872865, 117.16017123466061, -10542.121082998676)
+[11Jan2026 00:35:34.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio joined the game
+[11Jan2026 00:35:34.802] [Server thread/INFO] [Jade/]: Syncing config to Sergio (bcd59dfa-6cc6-3408-9ba4-1888848f4cc1)
+[11Jan2026 00:35:38.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito12363[/127.54.255.13:38281] logged in with entity id 42490 at (-3.219790960324847, 117.16017123466061, -10542.850059055332)
+[11Jan2026 00:35:38.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 joined the game
+[11Jan2026 00:35:38.321] [Server thread/INFO] [Jade/]: Syncing config to pablito12363 (b4aa97e8-971d-32ce-a9cc-dd7fe7af7a7d)
+[11Jan2026 00:35:39.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio fell from a high place
+[11Jan2026 00:35:40.451] [Server thread/INFO] [tombstone/]: The player Sergio has successfully been saved
+[11Jan2026 00:35:43.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 fell from a high place
+[11Jan2026 00:35:43.734] [Server thread/INFO] [tombstone/]: The player pablito12363 has successfully been saved
+[11Jan2026 00:36:03.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Teleported Sergio to pablito12363]
+[11Jan2026 00:37:57.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio was kicked for floating too long!
+[11Jan2026 00:37:57.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio lost connection: Flying is not enabled on this server
+[11Jan2026 00:37:57.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio left the game
+[11Jan2026 00:37:57.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito12363 was kicked for floating too long!
+[11Jan2026 00:37:57.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito12363 lost connection: Flying is not enabled on this server
+[11Jan2026 00:37:57.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 left the game
+[11Jan2026 00:38:05.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito12363[/127.54.255.13:45695] logged in with entity id 43519 at (1.440142940860305, 117.84950612411588, -10546.301727388478)
+[11Jan2026 00:38:05.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 joined the game
+[11Jan2026 00:38:05.113] [Server thread/INFO] [Jade/]: Syncing config to pablito12363 (b4aa97e8-971d-32ce-a9cc-dd7fe7af7a7d)
+[11Jan2026 00:38:06.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sergio[/127.145.238.209:57401] logged in with entity id 43521 at (-0.6829321198229964, 82.28982691580524, -10543.35916680847)
+[11Jan2026 00:38:06.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio joined the game
+[11Jan2026 00:38:06.367] [Server thread/INFO] [Jade/]: Syncing config to Sergio (bcd59dfa-6cc6-3408-9ba4-1888848f4cc1)
+[11Jan2026 00:38:09.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio fell from a high place
+[11Jan2026 00:38:11.023] [Server thread/INFO] [tombstone/]: The player Sergio has successfully been saved
+[11Jan2026 00:38:22.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Teleported Sergio to pablito12363]
+[11Jan2026 00:38:37.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio has made the advancement [The Lighthouse]
+[11Jan2026 00:38:39.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 has made the advancement [The Lighthouse]
+[11Jan2026 00:39:09.607] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.609] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.614] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.615] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.618] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.623] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.623] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.625] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.628] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.628] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.635] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.637] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.654] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.659] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.663] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.667] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.667] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.670] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:09.672] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:39:48.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set the weather to clear]
+[11Jan2026 00:40:22.421] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:40:22.428] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:40:22.433] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:40:22.435] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:40:22.435] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:40:22.435] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:40:22.435] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:40:22.437] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:40:22.439] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:40:22.439] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:40:22.440] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:40:22.443] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2026 00:40:22.583] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=777, y=-28, z=-138}
+[11Jan2026 00:40:22.583] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=779, y=-28, z=-138}
+[11Jan2026 00:40:22.584] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=780, y=-28, z=-139}
+[11Jan2026 00:40:22.584] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=779, y=-19, z=-133}
+[11Jan2026 00:40:22.584] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=780, y=-19, z=-133}
+[11Jan2026 00:40:22.584] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=781, y=-19, z=-133}
+[11Jan2026 00:40:22.584] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=783, y=-19, z=-135}
+[11Jan2026 00:40:22.585] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=783, y=-19, z=-136}
+[11Jan2026 00:40:22.585] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=776, y=-20, z=-139}
+[11Jan2026 00:40:22.585] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=777, y=-13, z=-138}
+[11Jan2026 00:40:22.586] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=778, y=-13, z=-136}
+[11Jan2026 00:40:22.586] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=784, y=-28, z=-133}
+[11Jan2026 00:40:22.587] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=785, y=-28, z=-135}
+[11Jan2026 00:40:22.587] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=786, y=-20, z=-139}
+[11Jan2026 00:40:22.587] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=786, y=-20, z=-133}
+[11Jan2026 00:40:22.748] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=767, y=-13, z=-134}
+[11Jan2026 00:40:37.518] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=776, y=-28, z=-130}
+[11Jan2026 00:40:37.519] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=779, y=-13, z=-131}
+[11Jan2026 00:40:37.519] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=787, y=-18, z=-131}
+[11Jan2026 00:40:37.538] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=774, y=-28, z=-129}
+[11Jan2026 00:40:37.539] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=768, y=-28, z=-129}
+[11Jan2026 00:40:37.539] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=774, y=-28, z=-127}
+[11Jan2026 00:40:37.539] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=769, y=-28, z=-127}
+[11Jan2026 00:40:37.540] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=769, y=-28, z=-128}
+[11Jan2026 00:40:37.540] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=772, y=-28, z=-121}
+[11Jan2026 00:40:37.540] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=770, y=-28, z=-121}
+[11Jan2026 00:40:37.540] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=769, y=-28, z=-119}
+[11Jan2026 00:40:37.540] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=775, y=-20, z=-128}
+[11Jan2026 00:40:37.540] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=774, y=-20, z=-127}
+[11Jan2026 00:40:37.541] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=774, y=-20, z=-124}
+[11Jan2026 00:40:37.541] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=768, y=-20, z=-124}
+[11Jan2026 00:40:37.541] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=768, y=-20, z=-122}
+[11Jan2026 00:40:37.541] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=770, y=-6, z=-119}
+[11Jan2026 00:40:37.542] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=772, y=-4, z=-126}
+[11Jan2026 00:41:45.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Teleported pablito12363 to Sergio]
+[11Jan2026 00:42:58.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio has made the advancement [Chompy]
+[11Jan2026 00:43:01.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio was slain by Crocodile
+[11Jan2026 00:43:01.780] [Server thread/INFO] [tombstone/]: The player Sergio has successfully been saved
+[11Jan2026 00:43:01.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[11Jan2026 00:43:02.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 has made the advancement [Chompy]
+[11Jan2026 00:43:05.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 was slain by Crocodile
+[11Jan2026 00:43:06.664] [Server thread/INFO] [tombstone/]: The player pablito12363 has successfully been saved
+[11Jan2026 00:43:25.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 was slain by Crocodile
+[11Jan2026 00:43:26.382] [Server thread/INFO] [tombstone/]: The player pablito12363 has successfully been saved
+[11Jan2026 00:44:18.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set the time to 1000]
+[11Jan2026 00:44:40.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/47406, l='ServerLevel[world]', x=181.45, y=69.00, z=-10802.64] died, message: 'Nitwit was burnt to a crisp whilst fighting Zombie'
+[11Jan2026 00:49:20.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[11Jan2026 00:52:11.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Teleported Sergio to pablito12363]
+[11Jan2026 00:54:41.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set the time to 1000]
+[11Jan2026 00:56:49.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set own game mode to Creative Mode]
+[11Jan2026 00:56:59.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set own game mode to Survival Mode]
+[11Jan2026 01:04:26.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio lost connection: Disconnected
+[11Jan2026 01:04:26.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio left the game
+[11Jan2026 01:04:35.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sergio[/127.145.238.209:59745] logged in with entity id 52884 at (121.66374169032194, 65.0, -10837.316874964092)
+[11Jan2026 01:04:35.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio joined the game
+[11Jan2026 01:04:35.111] [Server thread/INFO] [Jade/]: Syncing config to Sergio (bcd59dfa-6cc6-3408-9ba4-1888848f4cc1)
+[11Jan2026 01:08:19.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 has made the advancement [A Strange Grave Dust]
+[11Jan2026 01:08:29.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio was slain by Crocodile
+[11Jan2026 01:08:29.745] [Server thread/INFO] [tombstone/]: The player Sergio has successfully been saved
+[11Jan2026 01:08:48.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Teleported Sergio to pablito12363]
+[11Jan2026 01:08:59.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set the time to 1000]
+[11Jan2026 01:11:42.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio has made the advancement [A Throwaway Joke]
+[11Jan2026 01:28:51.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set own game mode to Creative Mode]
+[11Jan2026 01:29:01.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set own game mode to Survival Mode]
+[11Jan2026 01:46:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio was shot by Skeleton
+[11Jan2026 01:46:54.722] [Server thread/INFO] [tombstone/]: The player Sergio has successfully been saved
+[11Jan2026 01:48:40.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio has made the advancement [Mutual Aid]
+[11Jan2026 01:49:11.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 has reached the goal [Strong or Careful]
+[11Jan2026 01:49:11.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 froze to death
+[11Jan2026 01:49:11.785] [Server thread/INFO] [tombstone/]: The player pablito12363 has successfully been saved
+[11Jan2026 01:49:18.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Teleported pablito12363 to Sergio]
+[11Jan2026 01:49:39.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 has made the advancement [Mutual Aid]
+[11Jan2026 01:53:43.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 fell from a high place
+[11Jan2026 01:53:43.929] [Server thread/INFO] [tombstone/]: The player pablito12363 has successfully been saved
+[11Jan2026 01:53:46.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Teleported pablito12363 to Sergio]
+[11Jan2026 02:06:21.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[11Jan2026 02:07:23.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set own game mode to Creative Mode]
+[11Jan2026 02:07:51.839] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[11Jan2026 02:07:51.840] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[11Jan2026 02:07:51.840] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[11Jan2026 02:07:51.840] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[11Jan2026 02:07:51.840] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[11Jan2026 02:07:51.840] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[11Jan2026 02:07:51.840] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[11Jan2026 02:07:51.841] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[11Jan2026 02:07:51.841] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[11Jan2026 02:07:52.051] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=75, z=-939}
+[11Jan2026 02:07:52.051] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=72, z=-940}
+[11Jan2026 02:08:20.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set own game mode to Survival Mode]
+[11Jan2026 02:08:25.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set own game mode to Creative Mode]
+[11Jan2026 02:08:44.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set own game mode to Survival Mode]
+[11Jan2026 02:23:31.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito12363 lost connection: Timed out
+[11Jan2026 02:23:31.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 left the game
+[11Jan2026 02:25:40.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito12363[/127.54.255.13:54299] logged in with entity id 71282 at (143.30000001192093, 2.0, -10686.699999988079)
+[11Jan2026 02:25:40.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 joined the game
+[11Jan2026 02:25:40.683] [Server thread/INFO] [Jade/]: Syncing config to pablito12363 (b4aa97e8-971d-32ce-a9cc-dd7fe7af7a7d)
+[11Jan2026 02:39:22.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set own game mode to Creative Mode]
+[11Jan2026 02:40:04.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 41442ms or 828 ticks behind
+[11Jan2026 02:40:04.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio lost connection: Disconnected
+[11Jan2026 02:40:04.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio left the game
+[11Jan2026 02:40:04.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito12363 lost connection: Disconnected
+[11Jan2026 02:40:04.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 left the game
+[11Jan2026 02:40:04.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set own game mode to Survival Mode]
+[11Jan2026 02:40:07.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sergio[/127.145.238.209:47459] logged in with entity id 73831 at (47.93944990413412, 63.0, -10787.395575519668)
+[11Jan2026 02:40:07.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio joined the game
+[11Jan2026 02:40:07.673] [Server thread/INFO] [Jade/]: Syncing config to Sergio (bcd59dfa-6cc6-3408-9ba4-1888848f4cc1)
+[11Jan2026 02:40:08.850] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito12363[/127.54.255.13:37939] logged in with entity id 73833 at (209.0267200506669, 68.0, -10815.699999988079)
+[11Jan2026 02:40:08.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 joined the game
+[11Jan2026 02:40:08.915] [Server thread/INFO] [Jade/]: Syncing config to pablito12363 (b4aa97e8-971d-32ce-a9cc-dd7fe7af7a7d)
+[11Jan2026 02:40:08.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito12363 lost connection: Disconnected
+[11Jan2026 02:40:08.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 left the game
+[11Jan2026 02:40:13.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito12363[/127.54.255.13:54495] logged in with entity id 74176 at (209.0267200506669, 68.0, -10815.699999988079)
+[11Jan2026 02:40:13.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 joined the game
+[11Jan2026 02:40:13.951] [Server thread/INFO] [Jade/]: Syncing config to pablito12363 (b4aa97e8-971d-32ce-a9cc-dd7fe7af7a7d)
+[11Jan2026 02:40:27.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set own game mode to Survival Mode]
+[11Jan2026 02:46:15.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 was slain by Enderman
+[11Jan2026 02:46:16.576] [Server thread/INFO] [tombstone/]: The player pablito12363 has successfully been saved
+[11Jan2026 02:49:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set own game mode to Creative Mode]
+[11Jan2026 02:49:07.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 has made the advancement [Isn't It Iron Pick]
+[11Jan2026 02:49:11.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set own game mode to Survival Mode]
+[11Jan2026 02:50:04.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio has reached the goal [Bone Crusher]
+[11Jan2026 02:50:44.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set own game mode to Creative Mode]
+[11Jan2026 02:51:15.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito12363: Set own game mode to Survival Mode]
+[11Jan2026 02:54:46.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio lost connection: Disconnected
+[11Jan2026 02:54:46.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio left the game
+[11Jan2026 02:54:47.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito12363 lost connection: Disconnected
+[11Jan2026 02:54:47.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito12363 left the game
+[11Jan2026 02:55:00.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Jan2026 02:55:00.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Jan2026 02:55:00.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Jan2026 02:55:00.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Jan2026 02:55:01.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Jan2026 02:55:03.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Jan2026 02:55:03.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[11Jan2026 02:55:03.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[11Jan2026 02:55:03.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[11Jan2026 02:55:03.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Jan2026 02:55:03.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[11Jan2026 02:55:03.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[11Jan2026 02:55:03.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Jan2026 02:55:03.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Jan2026 02:55:03.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[11Jan2026 02:55:03.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[11Jan2026 02:55:03.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[11Jan2026 02:55:03.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Jan2026 02:55:03.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[11Jan2026 02:55:03.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[11Jan2026 02:55:03.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Jan2026 02:55:03.632] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:03.632] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:03.632] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:03.633] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:03.633] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:03.633] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:03.633] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:03.633] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:03.633] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:03.633] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.358] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.358] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.358] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.358] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.358] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.358] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.358] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.358] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.358] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.358] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.359] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.359] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.359] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.359] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.359] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.359] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.359] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.360] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.360] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.360] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.360] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.360] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.360] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.360] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.360] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.360] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.360] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.361] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.361] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.361] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.361] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.361] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.361] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.361] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.361] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.361] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.361] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.361] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.362] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.362] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.362] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.362] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.362] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.362] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.362] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.362] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.362] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.363] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.363] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.363] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.363] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.363] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.363] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.364] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.364] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.364] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.364] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.364] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.364] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.364] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.365] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.365] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.365] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.365] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.365] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.365] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.365] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.365] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.365] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.366] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[11Jan2026 02:55:04.384] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
